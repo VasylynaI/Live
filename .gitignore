@@ -1,0 +1,6 @@
+LiveMobile/__pycache__/
+LiveMobile/pages/__pycache__/
+LiveMobile/tests/__pycache__/
+
+venv/
+.idea/
